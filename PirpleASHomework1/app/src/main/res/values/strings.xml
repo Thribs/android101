@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PirpleASHomework</string>
+    <string name="compliment">Great course so far</string>
+    <string name="thanks">Thank you</string>
+    <string name="hello">Hello, World!</string>
+    <string name="press_me">Press me</string>
+</resources>
